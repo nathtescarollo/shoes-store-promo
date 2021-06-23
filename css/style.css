@@ -246,3 +246,19 @@ footer p {
   position: absolute;
   top: 120px;
 }
+.promo-frete {
+  position: relative;
+  border: 1px solid blue;
+}
+.texto-promo{
+  position: absolute;
+  justify-content: center;
+  border: 1px solid blue;
+  top: 0;
+  z-index: 1;
+}
+.red-box {
+  height: 50px;
+  background-color: #C2185B;
+  z-index: 15;
+}
