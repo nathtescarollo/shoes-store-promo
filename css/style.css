@@ -261,16 +261,18 @@ footer p {
 .texto-promo {
   position: absolute;
   color: #FFFFFF;
-  text-align: center;
   text-transform: uppercase;
+  font-weight: 600;
+  text-align: center;
   width: 100%;
   margin-top: 14.5px;
   top: 0;
-  z-index: 1;
+  /* z-index: 1; */
 }
 
 .red-box {
   height: 50px;
   background-color: #C2185B;
-  z-index: 15;
+  /* position: absolute;
+  z-index: 15; */
 }
